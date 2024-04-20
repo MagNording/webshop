@@ -19,7 +19,7 @@ public class EmailService {
     public void sendSimpleMessage(String to, String subject, String text) {
         try {
             SimpleMailMessage message = new SimpleMailMessage();
-            message.setFrom("magnus_nording@msn.com");
+            message.setFrom("name@test.com");
             message.setTo(to);
             message.setSubject(subject);
             message.setText(text);
