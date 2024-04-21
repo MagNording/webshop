@@ -1,6 +1,6 @@
 Collaboration with Robert Tronhage
 
-School project using Java spring web, JPA, and Thymeleaf.
+School project using Java Spring web, JPA, and Thymeleaf.
 
 Task description(supershort):
 
